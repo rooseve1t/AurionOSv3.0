@@ -1,0 +1,9 @@
+{
+  "name": "Aurion OS",
+  "description": "Автономная AI операционная система с интерфейсом в стиле J.A.R.V.I.S. Квантовые вычисления, умный дом, безопасность и аналитика.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
